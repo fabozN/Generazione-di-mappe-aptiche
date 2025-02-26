@@ -1,0 +1,10 @@
+absl-py
+matplotlib==3.10.0
+numpy==2.2.3
+Pillow==11.1.0
+safetensors==0.5.2
+torch==2.6.0
+torchmetrics==1.6.1
+torchvision==0.21.0
+tqdm==4.67.1
+wandb==0.19.6
